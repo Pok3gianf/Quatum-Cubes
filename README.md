@@ -1,4 +1,4 @@
-# 🧪 Quantum Cubes - A Minecraft Mod by Franquito
+# 🧪 Quantum Cubes - A Minecraft Mod by Fjurdur
 
 **Quantum Cubes** is a Minecraft Java mod where chemistry meets chaos. Every mob becomes an element from the periodic table... and they're not here to play nice.
 
